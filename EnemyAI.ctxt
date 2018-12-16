@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnemyAI
+comment1.params=
+comment1.target=EnemyAI()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ EnemyAI\n
+comment2.params=tmpChoiceNum
+comment2.target=EnemyAI(int)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ EnemyAI\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+numComments=4
